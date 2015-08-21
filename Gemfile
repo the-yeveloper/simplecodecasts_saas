@@ -13,6 +13,8 @@ end
 gem 'sass-rails', '4.0.3'
 #Use Bootstrap 
 gem 'bootstrap-sass','3.3.1'
+#Use font-awesome lib
+gem 'font-awesome-sass',"4.2.0"
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '1.3.0'
 # Use CoffeeScript for .js.coffee assets and views
