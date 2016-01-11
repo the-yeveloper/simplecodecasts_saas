@@ -1,4 +1,4 @@
-class ContactMailer < ActionMailer :: Base 
+class ContactMailer < ActionMailer::Base
     
     default to: 'vinogradov.evgeniy@gmail.com'
     
